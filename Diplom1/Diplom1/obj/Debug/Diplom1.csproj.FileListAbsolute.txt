@@ -1,0 +1,34 @@
+D:\Проекты\Diplom1\Diplom1\bin\Debug\Diplom1.exe
+D:\Проекты\Diplom1\Diplom1\bin\Debug\Interop.WMPLib.dll
+D:\Проекты\Diplom1\Diplom1\bin\Debug\Diplom1.exe.config
+D:\Проекты\Diplom1\Diplom1\obj\Debug\Interop.WMPLib.dll
+D:\Проекты\Diplom1\Diplom1\obj\Debug\AxInterop.WMPLib.dll
+D:\Проекты\Diplom1\Diplom1\obj\Debug\Diplom1.csproj.ResolveComReference.cache
+D:\Проекты\Diplom1\Diplom1\obj\Debug\Diplom1.Form1.resources
+D:\Проекты\Diplom1\Diplom1\obj\Debug\Diplom1.Properties.Resources.resources
+D:\Проекты\Diplom1\Diplom1\obj\Debug\Diplom1.csproj.GenerateResource.Cache
+D:\Проекты\Diplom1\Diplom1\obj\Debug\Diplom1.exe
+D:\Проекты\Diplom1\Diplom1\obj\Debug\Diplom1.pdb
+D:\Проекты\Diplom1\Diplom1\bin\Debug\Diplom1.pdb
+D:\Проекты\Diplom1\Diplom1\bin\Debug\AxInterop.WMPLib.dll
+D:\Проекты\Diplom1\Diplom1\obj\Debug\Diplom1.csprojResolveAssemblyReference.cache
+H:\Дипломный проект\Реализация\Diplom1\Diplom1\bin\Debug\Diplom1.exe.config
+H:\Дипломный проект\Реализация\Diplom1\Diplom1\obj\Debug\Interop.WMPLib.dll
+H:\Дипломный проект\Реализация\Diplom1\Diplom1\obj\Debug\AxInterop.WMPLib.dll
+H:\Дипломный проект\Реализация\Diplom1\Diplom1\obj\Debug\Diplom1.csproj.ResolveComReference.cache
+H:\Дипломный проект\Реализация\Diplom1\Diplom1\obj\Debug\Diplom1.exe
+H:\Дипломный проект\Реализация\Diplom1\Diplom1\obj\Debug\Diplom1.pdb
+H:\Дипломный проект\Реализация\Diplom1\Diplom1\bin\Debug\Diplom1.exe
+H:\Дипломный проект\Реализация\Diplom1\Diplom1\bin\Debug\Diplom1.pdb
+H:\Дипломный проект\Реализация\Diplom1\Diplom1\bin\Debug\Interop.WMPLib.dll
+H:\Дипломный проект\Реализация\Diplom1\Diplom1\bin\Debug\AxInterop.WMPLib.dll
+H:\Дипломный проект\Реализация\Diplom1\Diplom1\obj\Debug\Diplom1.csprojResolveAssemblyReference.cache
+H:\Дипломный проект\Реализация\Diplom1\Diplom1\obj\Debug\Diplom1.Form1.resources
+H:\Дипломный проект\Реализация\Diplom1\Diplom1\obj\Debug\Diplom1.Properties.Resources.resources
+H:\Дипломный проект\Реализация\Diplom1\Diplom1\obj\Debug\Diplom1.csproj.GenerateResource.Cache
+E:\Дипломный проект\Реализация\Diplom1\Diplom1\bin\Debug\Diplom1.exe.config
+E:\Дипломный проект\Реализация\Diplom1\Diplom1\obj\Debug\Interop.WMPLib.dll
+E:\Дипломный проект\Реализация\Diplom1\Diplom1\obj\Debug\AxInterop.WMPLib.dll
+E:\Дипломный проект\Реализация\Diplom1\Diplom1\obj\Debug\Diplom1.csproj.ResolveComReference.cache
+E:\Дипломный проект\Реализация\Diplom1\Diplom1\obj\Debug\Diplom1.exe
+E:\Дипломный проект\Реализация\Diplom1\Diplom1\obj\Debug\Diplom1.pdb

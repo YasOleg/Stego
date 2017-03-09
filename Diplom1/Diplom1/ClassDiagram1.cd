@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Diplom1.Program">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diplom1.SteganoTxt">
+    <Position X="4.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAACAgAAICAAiAAABAAIEAAAJAABAIAACA=</HashCode>
+      <FileName>SteganoTxt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diplom1.Form1">
+    <Position X="6.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BQACAAEQACgACQAIBQKAAAAGmAAIAAYoYAUgAAAECAI=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diplom1.ClassSteganoGraphia">
+    <Position X="2.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAACAAABggAAAAAAKAAIAAgAAAAAAAEAEAAgAA=</HashCode>
+      <FileName>ClassSteganoGraphia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
